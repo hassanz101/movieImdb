@@ -1,0 +1,19 @@
+*{
+ color: white;
+
+ border-spacing: inherit;
+}
+
+h1 {
+border-style: dotted;
+text-align: center;
+
+}
+
+body {
+ background-size: cover;
+ background-repeat: no-repeat;
+ background-image: url('minicooper.jpg');
+background-color: black;
+text-align: center;
+}
